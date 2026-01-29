@@ -14,3 +14,13 @@ Elle offre une interface simple et intuitive pour créer des listes de tâches, 
 
 ## Installation
 1. Clonez le dépôt
+## 🚀 Roadmap
+- [ ] Implémenter l’authentification des utilisateurs  
+- [ ] Ajouter la gestion des notifications et rappels  
+- [ ] Créer une API REST pour interagir avec les tâches  
+- [ ] Développer une interface mobile (React Native / Flutter)  
+- [ ] Intégrer un tableau de bord avec statistiques de productivité  
+
+## 🎨 Aperçu
+![Capture d’écran de l’application](docs/screenshot.png)
+
